@@ -1,0 +1,25 @@
+Hip Hop;Public Enemy;Public Enemy - It Takes a Nation of Millions to Hold Us Back ( 1988 );1988;3.93;political|aggressive|raw|energetic|conscious|noisy
+Hip Hop;De La Soul;De La Soul - 3 Feet High and Rising ( 1989 );1989;3.79;playful|humorous|uplifting|mellow|psychedelic
+Hip Hop;N.W.A|NWA;N.W.A - Straight Outta Compton ( 1988 );1988;3.69;aggressive|energetic|raw|political
+Hip Hop;Slick Rick;Slick Rick - The Great Adventures of Slick Rick ( 1988 );1988;3.59;humorous|mellow
+Hip Hop;A Trible Called Quest;A Trible Called Quest - The Low End Theory ( 1991 );1991;4.12;mellow|conscious|poetic
+Hip Hop;Dr. Dre|Dre|Dr Dre;Dr. Dre - The Chronic ( 1992 );1992;3.81;aggressive|humorous|party|playful|mellow
+Hip Hop;KRS One|KRS One; KRS One - Return of the Boom Bap ( 1993 );1993;3.73;political|aggressive|conscious|raw|philosophical|introspective
+Hip Hop;Nas;Nas - Illmatic ( 1994 );1994;4.20;introspective|philosophical|conscious|poetic
+Hip Hop;OutKast;OutKast - Aquemini ( 1998 );1998;4.11;conscious|mellow|introspective|uplifting|poetic|energetic|psychedelic
+Hip Hop;Mos Def;Mos Def - Black on Both Sides ( 1999 );1999;3.98;conscious|political|poetic|mellow|philosophical
+Hip Hop;OutKast;OutKast - AtLiens ( 1996 );1996;4.05;mellow|conscious|philosophical|poetic|melancholic
+Hip Hop;Ice Cube;Ice Cube - Death Certificate ( 1991 );1991;3.82;aggressive|political|energetic|conscious|humorous
+Hip Hop;Snoop Dogg|Snoop Doggy Dogg;Snoop Dogg - Doggystyle ( 1993 );1993;3.85;humorous
+Hip Hop;Nas;Nas - The Lost Tapes ( 2002 );2002;3.76;conscious|philosophical|sombre|sentimental|existential
+Hip Hop;Kanye West; Kanye West - The College Dropout ( 2004 );2004;4.04;humorous|playful|conscious|satirical|sentimental
+Hip Hop;OutKast;OutKast - Stankonia ( 2000 );2000;3.87;energetic|political|playful|protest|introspective|conscious|uplifting|humorous
+Hip Hop;Eyedea & Abiliities;Eyedea & Abilities - By the Throat ( 2009 );2009;3.55;abstract|dark|philosophical
+Hip Hop;Grandmaster Flash & The Furious Five;Grandmaster Flash & The Furious Five - Grandmaster Flash & The Furious Five ( 1982 );1982;4.19;conscious|political|philosophical|introspective|psychedelic
+Hip Hop;Wu Tang Clan;Wu Tang Clan - Enter the Wu Tang ( 1993 );1993;4.20;aggressive|energetic|dark|playful
+Hip Hop;2Pac;2Pac - Me Against the World ( 1995 );1995;3.73;introspective|conscious|poetic|depressive|existential
+Hip Hop;Eminem;Eminem - The Marshall Mathers LP 2 ( 2013 );2013;2.66;aggressive|dark|humorous|melodic
+Hip Hop;JayZ|Jay Z;JayZ - The Blueprint ( 2001 );2001;3.85;introspective|sentimental
+Hip Hop;Madvillian|MF DOOM|Madlib;Madvillain - Madvillainy ( 2004 );2004;4.28;psychedelic|technical|playful|eclectic|poetic
+Hip Hop;A Tribe Called Quest;A Tribe Called Quest - Midnight Marauders ( 1993 );1993;4.10;poetic|humorous
+Hip Hop;Big L;Big L - Lifestylez ov da Poor & Dangerous ( 1995 );1995;3.91;aggressive|playful|conscious|aggressive

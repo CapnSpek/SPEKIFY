@@ -1,0 +1,35 @@
+Indie Pop;Shop Assistants;Shop Assistants - Will Anything Happen ( 1997 );1997;3.87;melodic|vocals|melancholic|depressive|playful
+Indie Pop;The Pastels;The Pastels - Up for a Bit With The Pastels ( 1986 );1986;3.40;lonely|mellow|vocals|love
+Indie Pop;Television Personalities;Television Personalities - And Don't the Kids Just Love It ( 1980 );1980;3.60;lonely|vocals|melancholic|lo-fi
+Indie Pop;Talulah Gosh;Talulah Gosh - Backwash ( 1996 );1996;3.66;vocals|love|energetic|melodic|happy
+Indie Pop;The Flatmates;The Flatmates - Love and Death ( 1989 );1989;3.46;NIL
+Indie Pop;Dolly Mixture;Dolly Mixture - Demonstration Tapes ( 1988 );1988;3.71;melodic|energetic|uplifting|vocals|lo-fi|playful|love|mellow|sentimental|bittersweet
+Indie Pop;St. Christopher;St. Christopher - All of a Tremble ( 1989 );1989;3.71;vocals|melodic|bittersweet
+Indie Pop;The Orchids;The Orchids - Unholy Soul ( 1991 );1991;3.44;NIL
+Indie Pop;Razorcuts;Razorcuts - The World Keeps Turning ( 1989 );1989;3.59;NIL
+Indie Pop;The Sea Urchins|Sea Urchins;The Sea Urchins - Stardust ( 1992 );1992;3.45;NIL
+Indie Pop;The Charlottes;The Charlottes - LoveHappy ( 1989 );1989;3.18;lo-fi
+Indie Pop;BMX Bandits;BMX Bandits - C86 Plus ( 1992 );1992;3.32;playful|melodic|depressive|vocals|raw
+Indie Pop;Another Sunny Day;Another Sunny Day - Anorak City ( 1988 );1988;3.69;lo-fi|energetic
+Indie Pop;The Primitives|Primitives;The Primitives - Lovely ( 1988 );1988;3.52;vocals|melodic|playful|energetic
+Indie Pop;Heavenly;Heavenly - Le jardin de Heavenly ( 1992 );1992;3.55;vocals|melodic|energetic|bittersweet
+Indie Pop;Vaselines|The Vaselines;The Vaselines - The Way of The Vaselines ( 1992 );1992;3.75;playful|raw|melodic|vocals|love
+Indie Pop;Lois;Lois - Butterfly Kiss ( 1992 );1992;5.0;vocals|love
+Indie Pop;The Innocence Mission|Innocence Mission;The Innocence Mission - The Innocence Mission ( 1995 );1995;3.66;vocals|buttersweet|mellow|melancholic|melodic|poetic|soothing
+Indie Pop;Cub;Cub - Betti Cola ( 1993 );1993;5.0;vocals|playful|love|energetic
+Indie Pop;Even as We Speak;Even as We Speak - Feral Pop Frenzy ( 1993 );1993;3.39;NIL
+Indie Pop;Tiger Trap;Tiger Trap - Tiger Trap ( 1993 );1993;3.64;energetic|melodic|vocals|lo-fi|love|bittersweet|love|uplifting
+Indie Pop;Henry's Dress;Henry's Dress - Bust 'em Green ( 1996 );1996;3.44;vocals|noisy
+Indie Pop;The Softies;The Softies - It's Love ( 1995 );1995;3.42;love|mellow|melancholic|lonely|melodic|sentimental|instrospective|calm
+Indie Pop;Black Tambourine;Black Tambourine - Complete Recordings ( 1999 );1999;3.70;noisy|melancholic
+Indie Pop;Honeybunch;Honeybunch - Time Trials ( 1996 );1996;3.34;NIL
+Indie Pop;The Field Mice|Field Mice;The Field Mice - Where'd You Learn to Kiss That Way? ( 1998 );1998;4.05;melancholic|vocals
+Indie Pop;Belle and Sebastian;Belle and Sebastian - If You're Feeling Sinister ( 1996 );1996;3.96;bittersweet|melancholic
+Indie Pop;Tullycraft;Tullycraft - The Singles ( 1999 );1999;3.27;lo-fi
+Indie Pop;Wolfie;Wolfie - Awful Mess Mystery ( 1999 );1999;3.00;NIL
+Indie Pop;Free Loan Investments;Free Loan Investments - Ever Been to Mexico? ( 2002 );2002;3.44;lo-fi|vocals|noisy|playful
+Indie Pop;Acid House Kings;Acid House Kings - Sing Along With Acid Houe Kings ( 2005 );2005;3.46;mellow|melodic|love
+Indie Pop;Camera Obscura;Camera Obscura - My Maudlin Career ( 2009 );2009;3.47;mellow|vocals
+Indie Pop;Los Campesinos!|Los Campesinos;Los Campesinos! - Hold On Now, Youngster... ( 2008 );2008;3.40;energetic|vocals
+Indie Pop;Suburban Kids With Biblical Names;Suburban Kids With Biblical Names - #3 ( 2005 );2005;3.36;playful|vocals
+Indie Pop;The Pains of Being Pure at Heart;The Pains of Being Pure at Heart - The Pains of Being Pure at Heart ( 2009 );2009;3.43;energetic|vocals|noisy|playful|melodic

@@ -1,0 +1,51 @@
+Jazz;Miles Davis;Miles Davis - Kind of Blue ( 1959 );1959;4.24;instrumental|mellow|acoustic|soothing|nocturnal
+Jazz;John Coltrane;John Coltrane - A Love Supreme ( 1965 );1965;4.30;instrumental|technical|acoustic|avant-garde|concept album
+Jazz;Charles Mingus;Charles Mingus - The Black Saint & Sinner Lady ( 1963 );1963;4.34;instrumental|avant-garde|experimental
+Jazz;Dave Brubeck|The Dave Brubeck Quartet;The Dave Brubeck Quartet - Time Out ( 1959 );1959;3.94;instrumental|mellow|melodic|acoustic|technical|soothing
+Jazz;Art Blakey|the Jazz Messengers;Art Blakey & the Jazz Messengers - Moanin' ( 1959 );1959;4.04;instrumental|acoustic|melodic|energetic|playful
+Jazz;Thelonious Monk;Thelonious Monk - Brilliant Corners ( 1957 );1957;3.87;mellow|instrumental|acoustic|playful
+Jazz;Grant Green;Grant Green - Idle Moments ( 1965 );1965;3.89;instrumental|mellow|acoustic|melodic|atmospheric|nocturnal
+Jazz;Ella Fitzgerald|Duke Ellington;Ella Fitzgerald & Duke Ellington - Ella Fitzgerald sings the Duke Ellington songbook ( 1957 );1957;3.82;vocals|nocturnal|acoustic|melodic|playful|love
+Jazz;Art Pepper;Art Pepper - Art Pepper Meets the Rhythm Section ( 1957 );1957;3.74;instrumental|acoustic
+Jazz;The Cannonball Adderly Quintet;The Cannonball Adderly Quintet - Them Dirty Blues ( 1960 );1960;3.74;instrumental|acoustic|energetic
+Jazz;Charlie Parker;Charlie Parker - Boss Bird ( 2002 );2002;4.18;bepop
+Jazz;Yusuf Lateef;Yusuf Lateef - Eastern Sounds ( 1964 );1964;3.84;instrumental|soothing|melancholic|mellow|technical
+Jazz;Lee Morgan;Lee Morgan - The Sidewinder ( 1963 );1963;3.90;instrumental|energetic|acoustic|playful|mellow
+Jazz;Sonny Rollins;Sonny Rollins - Saxophone Colossus ( 1956 );1956;3.96;instrumental|acoustic|energetic|mellow|technical|nocturnal|soothing
+Jazz;Miles Davis;Miles Davis - Birth of the Cool ( 1957 );1957;3.76;instrumental|mellow|melodic|acoustic|energetic
+Jazz;Miles Davis;Miles Davis - Porgy and Bess ( 1959 );1959;3.72;instrumental|nocturnal|mellow|melancholic|acoustic|uplifting|warm|poetic|soothing|lonely
+Jazz;Miles Davis;Miles Davis - In a Silent Way ( 1959 );1959;4.21;instrumental|mellow|nocturnal|soothing
+Jazz;Miles Davis;Miles Davis - Round About Midnight ( 1957 );1957;3.85;instrumental|nocturnal|acoustic|soothing|mellow|warm|melancholic|love
+Jazz;Miles Davis;Miles Davis - Sketches of Spain ( 1960 );1960;3.88;instrumental|mellow|nocturnal|melancholic|atmospheric
+Jazz;John Coltrane;John Coltrane - Blue Train ( 1957 );1957;4.02;instrumental|energetic|acoustic|melodic|nocturnal
+Jazz;John Coltrane;John Coltrane - Giant Steps ( 1960 );1960;4.10;instrumental|energetic|acoustic|playful|technical
+Jazz;John Coltrane;John Coltrane - Live at Birdland ( 1964 );1964;4.05;instrumental|acoustic|hypnotic|melodic
+Jazz;John Coltrane;John Coltrane - My Favourite things ( 1961 );1961;4.10;instrumental|technical|playful|acoustic
+Jazz;Kenny Burrell;Kenny Burrell - Midnight Blue ( 1963 );1963;3.80;instrumental|nocturnal|soothing|melodic|playful
+Jazz;Archie Shepp|The New York Contemporary Five;Archie Shepp & The New York Contemporary Five - Archie Shepp & the NY contemporary ( 1967 );1967;3.78;avant-garde
+Jazz;Wayne Shorter;Wayne Shorter - Speak No Evil ( 1966 );1966;3.90;instrumental|acoustic|mellow|nocturnal|technical
+Jazz;Miles Davis|Miles Davis Quintet;Miles Davis Quintet - Steamin' ( 1961 );1961;3.72;instrumental|acoustic|mellow|melodic
+Jazz;V.S.O.P.|VSOP|The Quintet;V.S.O.P. The Quintet - V.S.O.P. The Quintet ( 1977 );1977;3.82;NIL
+Jazz;Wes Montgomery;Wes Montgomery - The Incredible Jazz Guitar of Wes Montgomery ( 1960 );1960;3.82;instrumental|technical|melodic|mellow|playful
+Jazz;Getz|Gilberto;Getz & Gilberto - Getz/Gilberto ( 1964 );1964;3.97;vocals|mellow|soothing|love|acoustic
+Jazz;Ahmed Abdul Malik;Ahmed Abdul Malik - Sounds of Africa ( 1963 );1963;3.56;NIL
+Jazz;Dave Brubeck|The Dave Brubeck Quartet ;The Dave Brubeck Quartet - Jazz Goes to College ( 1954 );1954;3.67;instrumental|mellow
+Jazz;Charles Mingus;Charles Mingus - Pithecanthropus Erectus ( 1956 );1956;3.84;instrumental|acoustic|mellow|technical
+Jazz;Clifford Brown|Max Roach;Clifford Brown and Max Roach - Study in Brown ( 1955 );1955;3.86;instrumental|acoustic|energetic|melodic|playful|uplifting|technical
+Jazz;Clifford Brown|Max Roach;Clifford Brown and Max Roach - Brown and Roach Incorporated ( 1955 );1955;3.72;instrumental|acoustic|melodic|energetic|uplifting|mellow|nocturnal
+Jazz;John Coltrane|Johny Hartman;John Coltrane and Johnny Hartman - John Coltrane and Johnny Hartman ( 1963 );1963;3.71;vocals|romantic|love|melodic|nocturnal|soothing|calm|mellow|acoustic
+Jazz;Phil Wood;Phil Wood - Rights of Swing ( 1961 );1961;3.59;NIL
+Jazz;Thelonious Monk;Thelonious Monk - Genius of Modern Music Vol 1 ( 1951 );1951;4.03;instrumental|technical|acoustic
+Jazz;Thelonious Monk;Thelonious Monk - Genius of Modern Music Vol 2 ( 1952 );1952;4.38;instrumental|acoustic
+Jazz;Charles Mingus;Charles Mingus - Mingus Ah Um ( 1959 );1959;4.09;instrumental|energetic|playful|acoustic|melodic|uplifting|technical
+Jazz;Diz|Gets;Diz and Getz - Diz and Gets ( 1955 );1955;3.66;instrumental|melodic|mellow|acoustic|soothing|hypnotic|atmospheric
+Jazz;Herbie Hancock;Herbie Hancock - Maiden Voyage ( 1966 );1966;3.89;instrumental|acoustic|mellow|melodic|concept album
+Jazz;Grant Green;Grant Green - Green Street ( 1961 );1961;3.70;nocturnal|instrumental|soothing|mellow|melodic|technical|playful
+Jazz;Lee Morgan;Lee Morgan - Cornbread ( 1967 );1967;3.76;instrumental
+Jazz;The Horace Silver Quintet|Horace Silver;The Horace Silver Quintet - Song for My Father ( 1965 );1965;3.96;instrumental|acoustic|mellow|warm|melodic|soothing|energetic
+Jazz;Archie Shepp;Archie Shepp - Attica Blues ( 1972 );1972;3.62;vocals|psychedelic|playful|avant-garde
+Jazz;Chet Baker;Chet Baker - Chet Baker Sings ( 1954 );1954;3.79;vocals|love|melancholic|mellow|acoustic|melodic|soothing|nocturnal
+Jazz;Nina Simone;Nina Simone - Nina Simone Sings the Blues Nina Simone ( 1967 );1967;3.86;vocals|acoustic|playful|love|melancholic
+Jazz;Ornette Coleman;Ornette Coleman - The Shape of Jazz to Come ( 1959 );1959;3.97;instrumental|avant-garde|energetic|acoustic|playful|chaotic
+Jazz;Herbie Hancock;Herbie Hancock - Thrust ( 1974 );1974;3.74;instrumental|technical
+Jazz;Herbie Hancock;Herbie Hancock - Head Hunters ( 1973 );1973;3.97;instrumental|playful|mellow|psychedelic|technical|hypnotic|energetic
